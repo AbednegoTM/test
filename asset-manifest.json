@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.4eca2ba1.chunk.css",
+    "main.js": "/test/static/js/main.eb3226f0.chunk.js",
+    "main.js.map": "/test/static/js/main.eb3226f0.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.d4876194.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.d4876194.js.map",
+    "static/js/2.56f878d4.chunk.js": "/test/static/js/2.56f878d4.chunk.js",
+    "static/js/2.56f878d4.chunk.js.map": "/test/static/js/2.56f878d4.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.155fcdde85f89462ea0c9e0b2aa42efc.js": "/test/precache-manifest.155fcdde85f89462ea0c9e0b2aa42efc.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.4eca2ba1.chunk.css.map": "/test/static/css/main.4eca2ba1.chunk.css.map",
+    "static/js/2.56f878d4.chunk.js.LICENSE.txt": "/test/static/js/2.56f878d4.chunk.js.LICENSE.txt",
+    "static/media/Capture.png": "/test/static/media/Capture.079052da.png",
+    "static/media/Down_by_the_River.mp4": "/test/static/media/Down_by_the_River.5b079e57.mp4",
+    "static/media/Energy.png": "/test/static/media/Energy.a032f73f.png",
+    "static/media/index.css": "/test/static/media/Gellix-Regular.6645d1b8.woff",
+    "static/media/Le1.png": "/test/static/media/Le1.c4143c82.png",
+    "static/media/Learning.png": "/test/static/media/Learning.94174486.png",
+    "static/media/bcv.png": "/test/static/media/bcv.43e27845.png",
+    "static/media/eps.png": "/test/static/media/eps.219c693f.png",
+    "static/media/fik.png": "/test/static/media/fik.5cfeecdb.png",
+    "static/media/map.png": "/test/static/media/map.d5a94680.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4876194.js",
+    "static/js/2.56f878d4.chunk.js",
+    "static/css/main.4eca2ba1.chunk.css",
+    "static/js/main.eb3226f0.chunk.js"
+  ]
+}
