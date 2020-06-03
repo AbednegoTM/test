@@ -1,0 +1,162 @@
+.App {
+  width: 100%;
+}
+
+.section {
+  height: 100%;
+}
+
+.sub-hdr-text {
+  font-size: 1.5em;
+  color: #5d4dc4;
+  margin-bottom: 3rem;
+}
+.hdr-text {
+  font-size: 5em;
+  text-align: center;
+  color: #5d4dc4;
+  margin: 50px;
+}
+
+/* crowd investment  */
+.crowd-vd {
+  width: 80%;
+}
+
+/* What we do  */
+.section-title {
+  position: relative;
+  bottom: 2rem;
+  color: #5d4dc4;
+  font-size: 3em;
+}
+
+.service-item img {
+  height: 80px;
+  width: 80px;
+  margin: 20px;
+}
+.service-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  max-width: 25% !important;
+  text-align: center;
+}
+.services {
+  max-width: 100%;
+  justify-content: space-evenly;
+}
+.service-title {
+  text-transform: uppercase;
+  color: #5d4dc4;
+}
+
+.service-sub {
+  text-align: center;
+  color: #5d4dc4;
+}
+
+/* Buttons group styles */
+.buttonGrp {
+  width: 30rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 2rem !important;
+}
+.oelbtn:hover {
+  background-color: #bcbec0 !important;
+}
+
+/* .oel-btn-antena {
+  height: 30px;
+  border-left: 1px solid black;
+  margin-right: 10px;
+  position: relative;
+  bottom: -2 !important;
+} */
+
+.oelbtn {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 !important;
+}
+
+/* Introducing our first product */
+#le1-intro-col2 {
+}
+
+/* footer  */
+.footer-lft p {
+  margin: 0;
+}
+
+#usef-links a{
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .oelbtn {
+    width: 150px;
+  }
+
+  /* footer  */
+  .footer-lft {
+    padding-bottom: 35% !important;
+  }
+
+  .footer-lft #ft-links {
+    width: 100% !important;
+    padding: 2rem;
+  }
+
+  #ft-copyright {
+    padding: 2rem;
+  }
+
+  /* Buttons group styles */
+  .buttonGrp {
+    width: 100%;
+  }
+
+  /* crowd investment  */
+  .crowd-vd {
+    width: 100%;
+  }
+
+  /* Introducing our first product */
+  #le1-intro-col2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .section-title {
+    position: relative;
+    bottom: 0rem;
+    color: #5d4dc4;
+    font-size: 2em;
+  }
+
+  .service-item {
+    max-width: 100% !important;
+  }
+
+  .hdr-text {
+    font-size: 2.5em;
+    text-align: center;
+  }
+
+  .sub-hdr-text {
+    font-size: 1em;
+  }
+  .section {
+    height: 100%;
+  }
+}
